@@ -1,1 +1,8 @@
-A simple password generator Python program
+Password generator designed using Python
+
+The Tkinter module has been used to create a User Interface. 
+The user is required to input the required password length(8 to 20 characters).
+The generate button generates a random password and there is an option to regenerate the password.
+The password can be regenerated any number of times.
+There is also a copy button which can be used to copy the password to the clipboard.
+The password is a combination of numbers, symbols, capital and small letters.
